@@ -50,5 +50,4 @@ Real-time interaction quality, security boundaries, network behavior under hosti
 
 For me, that is the point of VESPER as a showcase: it is small enough to inspect and run, but broad enough that coherence matters.
 
-**Project:** [VESPER · Far Frontier]({{ '/projects/vesper/' | relative_url }})  
 **Solo demo:** [Open in the browser]({{ '/demos/vesper/' | relative_url }})
