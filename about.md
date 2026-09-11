@@ -50,4 +50,4 @@ I spend free time reading technical literature, programming, exploring new techn
 
 ## Contact
 
-The simplest way to reach me is by email at [geralt194@gmail.com](mailto:geralt194@gmail.com). You can also find my code on [GitHub](https://github.com/andrii-novikov-a).
+The simplest way to reach me is by email at [novikov.andrii.a@gmail.com](mailto:novikov.andrii.a@gmail.com).
