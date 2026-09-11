@@ -6,7 +6,7 @@ description: >
 ---
 
 <p class="eyebrow">Software engineering · AI · teaching</p>
-<p class="profile-lead"><strong>Hi, I’m Andrii.</strong> I’m a software engineer and educator based in Goslar, Germany. I like projects where code, product thinking, and clear teaching meet.</p>
+<p class="profile-lead"><strong>Hi, I’m Andrii.</strong> I’m a software engineer and educator based in Germany. I like projects where code, product thinking, and clear teaching meet.</p>
 
 <p>This site is a compact record of things I build, teach, and investigate — from software and CRM/project coordination to AI-assisted prototypes and notes on frontier models.</p>
 
