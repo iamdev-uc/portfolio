@@ -21,8 +21,6 @@ menu:
     url:               /projects/
   - title:             About
     url:               /about/
-  - title:             Résumé
-    url:               /resume/
 
 legal:
   - title:             LICENSE
