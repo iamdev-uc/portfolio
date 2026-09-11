@@ -18,7 +18,7 @@ description: >
   <a href="{{ '/assets/downloads/VESPER.zip' | relative_url }}">Download full package</a>
 </div>
 
-I use **VESPER** in this portfolio as a practical demonstration of what an Astra-assisted end-to-end workflow can look like: not just generating a snippet, but carrying a concept through client code, server logic, packaging, documentation, and repeatable tests.
+I use **VESPER** as a practical demonstration of what an Astra-assisted end-to-end workflow can look like: not just generating a snippet, but carrying a concept through client code, server logic, packaging, documentation, and repeatable tests.
 
 <div class="callout callout--accent">
 <strong>Important framing.</strong> The interesting part is not “AI made a game.” The interesting part is that the result is inspectable and runnable: a static solo client, a small authoritative multiplayer server, Docker packaging, and a test suite. Engineering judgment still lives in the constraints, verification, and decisions around the generated work.
