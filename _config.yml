@@ -94,7 +94,7 @@ hydejack:
   cookies_banner:      false
   advertise:           false
   hide_dates:          false
-  hide_last_modified:  false
+  hide_last_modified:  true
   offline:
     enabled:           false
     cache_version:     1
